@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![Shihyun's github stats](https://github-readme-stats.vercel.app/api?username=shihyun-Lee&show_icons=true&theme=radical) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihyun-Lee&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 <hr>
 
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="jeenii22@naver.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeenii22@naver.com"
+        src="https://img.shields.io/badge/N-mail-brightgreen?style=flat-square&logo=Naverl&logoColor=green&link=mailto:jeenii22@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
