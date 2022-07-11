@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jeenii22@naver.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->"
+-->
 <h3>🌱 I’m currently learning data structure, algolithm. </a>
 
 
