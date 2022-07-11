@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->"
 <h3>🌱 I’m currently learning data structure, algolithm. </a>
-<h3> 😄  .</a>
-<h3>instagram:" https://www.instagram.com/i_see_hyun__/ </a>
-<h3>youtube:"https://www.youtube.com/watch?v=fvOwP2gbnew"</a>
-<h3>📫 How to reach me: jeenii22@naver.com. </a>
+
 
 <div align=center><h1>👋 Hi, I’m @시현 </h1></div>
 
