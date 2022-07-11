@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->"
-<h3>instagram:" https://www.instagram.com/i_see_hyun__/
-youtube:"https://www.youtube.com/watch?v=fvOwP2gbnew"
-📫 How to reach me: jeenii22@naver.com. </a>
+<h3> 🔭 I’m currently working on "coding and play"</a>
+<h3> </a>
+<h3> </a>
+<h3>instagram:" https://www.instagram.com/i_see_hyun__/ </a>
+<h3>youtube:"https://www.youtube.com/watch?v=fvOwP2gbnew"</a>
+<h3>📫 How to reach me: jeenii22@naver.com. </a>
 
