@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 
 <hr>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeenii22)](https://solved.ac/jeeni22/)
 
 
 </a> <a href="https://www.instagram.com/i_see_hyun__/">
