@@ -39,9 +39,11 @@ Here are some ideas to get you started:
 
 <div align=center>
 
+
 ![Shihyun's github stats](https://github-readme-stats.vercel.app/api?username=shihyun-Lee&show_icons=true&theme=radical) 
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeenii22)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeenii22)](https://solved.ac/jeenii22)
+
 
 <hr>
 
