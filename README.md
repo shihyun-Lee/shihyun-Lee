@@ -32,29 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
-<h3>🌱 I’m currently learning algorithm. </a>
-
-<h3>📫 How to reach me: jeenii22@naver.com. </a>
-<div align=center><h1>👋 Hi, I’m @시현 </h1></div>
-
-<div align=center>
-
-
-![Shihyun's github stats](https://github-readme-stats.vercel.app/api?username=shihyun-Lee&show_icons=true&theme=radical) 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeenii22)](https://solved.ac/jeenii22)
-
-
-<hr>
 
 
 
-</a> <a href="https://www.instagram.com/i_see_hyun__/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/i_see_hyun__/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-</a>[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCaUwC7dqFCRRI230bICbYew)](https://www.youtube.com/channel/UCaUwC7dqFCRRI230bICbYew)
-	
-
-</div>
